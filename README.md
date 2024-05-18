@@ -1,16 +1,14 @@
 # Noon WebView
 
-A new Flutter project.
 
-## Getting Started
+This Flutter project demonstrates a comprehensive implementation of a WebView, complete with a loading progress indicator, JavaScript support, and user-controlled zoom functionality.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **WebView Display:** Renders web content seamlessly within your Flutter application using the `WebView` widget.
+- **Loading Indicator:** Displays a linear progress indicator to inform users of page loading status.
+- **JavaScript Support:** Executes JavaScript within the WebView, enabling enhanced interactivity.
+- **Zoom Controls:** Includes FloatingActionButton widgets for zooming in and out, enhancing user experience.
+- **SnackBar Integration:** Displays snackbar messages triggered by JavaScript events for real-time user feedback.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
